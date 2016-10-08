@@ -1,2 +1,0 @@
-# BMServices
-Benjamin Multi-Services
