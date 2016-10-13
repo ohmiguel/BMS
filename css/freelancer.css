@@ -167,6 +167,9 @@ section.success a.active {
   section.first {
     padding-top: 75px;
   }
+    #about p{
+        text-align: center;
+    }
 }
 #portfolio .portfolio-item {
   margin: 0 0 15px;
